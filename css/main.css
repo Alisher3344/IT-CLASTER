@@ -1,0 +1,160 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  font-family: "Poppins", sans-serif;
+}
+.container {
+  max-width: 1280px;
+  margin: 0px 60px;
+}
+header {
+  background-color: rgba(35, 37, 54, 1);
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 0px 28px;
+  align-items: end;
+}
+nav ul {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  list-style-type: none;
+}
+nav ul a {
+  color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  opacity: 60%;
+  transition: 0.3s;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0px;
+}
+nav ul a:hover {
+  opacity: 1;
+}
+.borderHover {
+  padding-top: 28px;
+  border-top: 3px solid rgba(255, 255, 255, 0);
+  transition: 0.2s;
+}
+.borderHover:hover {
+  border-top: 3px solid rgba(255, 161, 85, 1);
+}
+.nav_right_elem {
+  display: flex;
+  gap: 32px;
+  align-items: end;
+}
+.nav_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  background: none;
+  border: none;
+  color: rgba(255, 211, 175, 1);
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0px;
+  cursor: pointer;
+}
+
+/* footer  */
+.main_flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.elem_right {
+  display: flex;
+  gap: 60px;
+}
+.footer_a {
+  display: flex;
+  flex-direction: column;
+}
+.footer_a a {
+  text-decoration: none;
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 0px;
+  color: rgba(35, 37, 54, 1);
+  margin-bottom: 12px;
+}
+
+.footerP p {
+  margin-bottom: 12px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0px;
+  color: rgba(35, 37, 54, 1);
+}
+.footer_h {
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 58px;
+  letter-spacing: 0px;
+  width: 532px;
+}
+.h4InFooter {
+  margin-top: 40px;
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0px;
+  margin-bottom: 28px;
+}
+.EndFooter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.endH3 {
+  margin-top: 30px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0px;
+  width: 206px;
+}
+.endFoterA {
+  display: flex;
+  gap: 8px;
+  text-decoration: none;
+  color: rgba(35, 37, 54, 1);
+}
+.qoshimcha {
+  margin-top: 64px;
+  background-color: rgba(255, 230, 210, 1);
+  padding: 28px 0px;
+}
+.end_ {
+  display: flex;
+  justify-content: space-between;
+}
+.end_card {
+  display: flex;
+  gap: 42px;
+}
+.div_link_icon{
+  display: flex;
+  align-items: center;
+  gap: 27px;
+}
