@@ -1,133 +1,139 @@
-
-.section-one-h2{
-padding-top: 20px;
-    width: 664px;
-height: 174px;
-top: 268px;
-left: 161px;
-color: rgba(35, 37, 54, 1);
-font-family: Poppins;
-font-weight: 600px;
-font-size: 48px;
-line-height: 58px;
-letter-spacing: 0px;
-
-
+.section-one-h2 {
+  padding-top: 20px;
+  width: 664px;
+  height: 174px;
+  top: 268px;
+  left: 161px;
+  color: rgba(35, 37, 54, 1);
+  font-family: Poppins;
+  font-weight: 600px;
+  font-size: 48px;
+  line-height: 58px;
+  letter-spacing: 0px;
 }
-.p2{
-    width: 719px;
-height: 48px;
-top: 466px;
-left: 161px;
-opacity: 0.87;
-padding-top: 24px;
+.p2 {
+  width: 719px;
+  height: 48px;
+  top: 466px;
+  left: 161px;
+  opacity: 0.87;
+  padding-top: 24px;
 }
-.people{
-    display: flex;
-    gap: 12px;
-    padding-top: 64px;
+.people {
+  display: flex;
+  gap: 12px;
+  padding-top: 64px;
 }
-.pa{
-    width: 422px;
-height: 446px;
-top: 578px;
-left: 160px;
-
+.pa {
+  width: 422px;
+  height: 446px;
+  top: 578px;
+  left: 160px;
 }
-.pe{
-    width: 407px;
-height: 446px;
-top: 578px;
-left: 1029px;
+.pe {
+  width: 407px;
+  height: 446px;
+  top: 578px;
+  left: 1029px;
 }
-.pl{
-    width: 423px;
-height: 446px;
-top: 578px;
-left: 594px;
-
-
+.pl {
+  width: 423px;
+  height: 446px;
+  top: 578px;
+  left: 594px;
 }
-.section-two-h6{
-    padding-top: 128px;
-font-weight: 600;
-font-size: 16px;
-line-height: 28px;
-letter-spacing: 0px;
-
+.section-two-h6 {
+  padding-top: 128px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 0px;
 }
-.h3{
-    width: 549px;
-height: 108px ;
-top: 1196px;
-left: 160px;
-font-family: Poppins;
-font-weight: 600;
-font-size: 36px;
-line-height: 54px;
-letter-spacing: 0px;
-
+.h3 {
+  width: 549px;
+  height: 108px;
+  top: 1196px;
+  left: 160px;
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 54px;
+  letter-spacing: 0px;
 }
-.section-two-text-p{
-    width:550px;
-height: 144px;
-top: 1328px;
-left: 160px;
-opacity: 0.87;
-padding-top: 24px;
-font-family: Poppins;
-font-weight: 400px;
-font-size: 16px;
-line-height: 24px;
-letter-spacing: 0px;
-
+.section-two-text-p {
+  width: 550px;
+  height: 144px;
+  top: 1328px;
+  left: 160px;
+  opacity: 0.87;
+  padding-top: 24px;
+  font-family: Poppins;
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0px;
 }
-.section-two{
-    display: flex;
+.section-two {
+  display: flex;
 }
-.section-two-box{
-    margin-top: 128px;
-    background-color: rgba(255, 211, 175, 0.57);
-    width: 624px;
-height: 368px;
-top: 1120px;
-left: 816px;
-/* padding: 62px 110px 80px 214px; */
-text-align: center;
+.section-two-box {
+  margin-top: 128px;
+  background-color: rgba(255, 211, 175, 0.57);
+  width: 624px;
+  height: 368px;
+  top: 1120px;
+  left: 816px;
+  /* padding: 62px 110px 80px 214px; */
+  text-align: center;
 }
-.box-top{
-    display: flex;
-    text-align: center;
+.box-top {
+  display: flex;
+  text-align: center;
 }
-.first{
-    padding-top: 62px;
-    margin:  0 auto;
-    text-align: center;
-    display: flex;
-    font-family: Poppins;
-font-weight: 600px;
-font-size: 36px;
-line-height: 54px;
-letter-spacing: 0px;
-gap: 30px;
-flex-direction: column;
+.first {
+  padding-top: 62px;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  font-family: Poppins;
+  font-weight: 600px;
+  font-size: 36px;
+  line-height: 54px;
+  letter-spacing: 0px;
+  gap: 30px;
+  flex-direction: column;
 }
-.second{
-    padding-top: 62px;
-    margin:  0 auto;
-    text-align: center;
-    display: flex;
-    font-family: Poppins;
-font-weight: 600px;
-font-size: 36px;
-line-height: 54px;
-letter-spacing: 0px;
-gap: 30px;
-flex-direction: column;
+.second {
+  padding-top: 62px;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  font-family: Poppins;
+  font-weight: 600px;
+  font-size: 36px;
+  line-height: 54px;
+  letter-spacing: 0px;
+  gap: 30px;
+  flex-direction: column;
 }
-.section-two-bottom{
-    margin: 0 auto;
-    display: flex;
-    justify-content: center;
-    padding-top: 96px ;
+.section-two-bottom {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  padding-top: 96px;
+}
+.team_grid {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 0px;
+  margin-top: 64px;
+}
+.team_grid img {
+  width: 320px;
+  height: 320px;
+}
+.team_grid a{
+    text-decoration: none;
+    width: 0px;
+    height: 320px;
 }
