@@ -157,3 +157,9 @@ shox{
   .shapes-img {
     margin-left: 105px;
   }
+  .brother{
+    justify-content: center;
+    display: flex;
+    gap: 32px;
+    flex-wrap: wrap;
+  }
