@@ -1,0 +1,75 @@
+.h1_contactus {
+  margin-top: 96px;
+  margin-bottom: 24px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  opacity: 87%;
+}
+.malumotH1 {
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 58px;
+  letter-spacing: 0px;
+  width: 672px;
+  margin-bottom: 24px;
+}
+.malumot_p {
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0px;
+  color: rgba(35, 37, 54, 1);
+  opacity: 87px;
+  margin-bottom: 64px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  width: 405px;
+}
+form input {
+  outline: none;
+  margin-bottom: 24px;
+  height: 60px;
+  border: none;
+  border-bottom: 1px solid rgba(35, 37, 54, 0.313);
+}
+.blue_div {
+  background-color: rgba(102, 109, 255, 1);
+  color: white;
+  padding: 83px 148px 128px 96px;
+}
+.blue_div p {
+  margin-bottom: 24px;
+  color: rgba(255, 255, 255, 1);
+  opacity: 60%;
+}
+form button {
+  background: linear-gradient(180deg, #444cfc 0%, #444cfc 100%);
+  width: 213px;
+  height: 64px;
+  color: white;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 13px;
+}
+
+.blue_div h4 {
+  margin-bottom: 24px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0px;
+}
+iframe {
+  margin-top: 96px;
+}
